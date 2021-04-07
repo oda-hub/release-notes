@@ -7,3 +7,7 @@ As of now, we may use CalVer
 
 * frontend news banners
 
+* stability improvements
+
+* fully public option remains open
+
