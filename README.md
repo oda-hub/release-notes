@@ -11,3 +11,7 @@ As of now, we may use CalVer
 
 * fully public option remains open
 
+* antares 
+* magic
+* SDSS
+
