@@ -2,16 +2,16 @@
 
 As of now, we may use CalVer
 
-* auth, and delayed requests
-* hpc
+* Dispatcher
+  * auth, and long requests, sending email
+  * fully public option remains open
 
-* frontend news banners
+* frontend
+   * frontend news banners
 
-* stability improvements
+* INTEGRAL
+  * HPC support
 
-* fully public option remains open
-
-* antares 
-* magic
-* SDSS
+* new instruments
+   * ANTARES 
 
