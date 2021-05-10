@@ -2,6 +2,8 @@
 
 As of now, we may use CalVer
 
+* Allowing > 50 ScW requests for private users
+
 * Dispatcher
   * auth, and long requests, sending email
   * fully public option remains open
