@@ -8,6 +8,9 @@ As of now, we may use CalVer
 
 * frontend
    * frontend news banners
+   * user accounts
+   * small fixes
+     * units in fields [issue](https://github.com/oda-hub/frontend-astrooda/issues/2)
 
 * INTEGRAL
   * HPC support
