@@ -7,8 +7,9 @@ As of now, we may use CalVer
   * fully public option remains open
 
 * frontend
-   * frontend news banners
    * user accounts
+   * frontend news banners
+   * JS9 
    * small fixes
      * units in fields [issue](https://github.com/oda-hub/frontend-astrooda/issues/2)
 
