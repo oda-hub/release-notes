@@ -2,6 +2,10 @@
 
 As of now, we may use CalVer
 
+* HPC clusters for compute:
+  *  faster?
+  *  interactive?
+
 * Allowing > 50 ScW requests for private users
 
 * Dispatcher
