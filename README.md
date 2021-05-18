@@ -2,20 +2,21 @@
 
 As of now, we may use CalVer
 
+* User accounts
+  * auth, and long requests, sending email
+  * Allowing > 50 ScW requests for private users
+  * possible access to private data
+  * fully public option remains open
+
+* news banners and mailing list
+
 * HPC clusters for compute:
   *  faster?
   *  interactive?
 
-* Allowing > 50 ScW requests for private users
-
-* Dispatcher
-  * auth, and long requests, sending email
-  * fully public option remains open
-
 * frontend
-   * user accounts
    * frontend news banners
-   * JS9 
+   * JS9?
    * small fixes
      * units in fields [issue](https://github.com/oda-hub/frontend-astrooda/issues/2)
 
