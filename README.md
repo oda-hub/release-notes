@@ -4,8 +4,8 @@ As of now, we may use CalVer
 
 * User accounts
   * auth, and long requests, sending email
-  * Allowing > 50 ScW requests for private users
-  * possible access to private data
+  * Allowing > 50 ScW requests for registered users
+  * possible access to private data for registered users, upon agreement
   * fully public option remains open
 
 * news banners and mailing list
