@@ -8,6 +8,8 @@ As of now, we may use CalVer
   * possible access to private data for registered users, upon agreement
   * fully public option remains open
 
+* old version remains available as ...
+
 * news banners and mailing list
 
 * HPC clusters for compute:
