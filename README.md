@@ -18,12 +18,12 @@ As of now, we may use CalVer
 	* Upon login, the limit of INTEGRAL science windows is 500 instead of 50 for the anonymous user
 	* Specific users can access private data upon usage agreement
 	* Access to HPC resources can be granted abd the limit of 500 science windows raised upon special agreement
-	* As before, all submitted requests are eventually satisfied, even if they experience issue. Unlike before, we will follow-up with the user, explaning peculiarity of request impact. 
+	* As before, all submitted requests are eventually satisfied, even if they experience issue. In addition, registeed users will receive a dedicated follow-up, explaining reasons of failures or suggestions to optimize a difficult request. 
  
 ## New parameters
 
 * The user can specify the number of science windows to be analyzed within a time interval
-* the use can specify to access private data
+* the use can specify to access private data (upon granting of priviledges)
 
 ## User experience
 
