@@ -39,3 +39,7 @@ As of now, we may use CalVer
 * a new Kubenetees cluster makes requests faster
 * a powerful HPC cluster is available upon agreement for very large jobs
 
+## Known limitations
+
+* In normal use, no more than 50 new requests per hour can be submitted. Note that this will yeild 100 emails. We consider that this is rarely needed, but if necessary, we can provide enhanced access.
+
