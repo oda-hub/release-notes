@@ -1,4 +1,4 @@
-# release-notes-21.07.000
+# release-notes-21.10.000
 
 As of now, we may use CalVer
 
@@ -24,6 +24,7 @@ As of now, we may use CalVer
 
 * The user can specify the number of science windows to be analyzed within a time interval
 * the use can specify to access private data (upon granting of priviledges)
+* OSA11.2-beta is available for use by restricted user group
 
 ## User experience
 
