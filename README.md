@@ -2,7 +2,7 @@
 
 As of now, we may use CalVer
 
-## Instruments to provide data
+## Serving data from these instruments
 
 * INTEGRAL
 	* IBIS/ISGRI
@@ -14,7 +14,7 @@ As of now, we may use CalVer
 ## User accounts
 
 * The user of ODA should login to use the service efficiently so that
-	* They will receive an email upon job submission and completion
+	* They will receive an email upon both job submission and completion
 	* Upon login, the limit of INTEGRAL science windows is 500 instead of 50 for the anonymous user
 	* Specific users can access private data upon usage agreement
 	* Access to HPC resources can be granted abd the limit of 500 science windows raised upon special agreement
@@ -22,14 +22,14 @@ As of now, we may use CalVer
  
 ## New parameters
 
-* The user can specify the number of science windows to be analyzed within a time interval
+* The user can specify the number of science windows to be analyzed within a given time interval
 * the use can specify to access private data (upon granting of priviledges)
-* OSA11.2-beta is available for use by restricted user group
+* OSA11.2-beta is available for use by restricted user group (this contains the new IBIS/ISGRI energy calibration and spectral response)
 
 ## User experience
 
-* A banner reports news and
-* mailing list can be used for feedback
+* A banner on the web interface reports news and current issues
+* A user can received personalized feedback on their job
 * python API code has more logging and functionalities, like asynchronous requests
 * Images are visualized with js9 (an extension of ds9)
 * Help pages are updated and extended
