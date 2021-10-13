@@ -1,6 +1,6 @@
 Dear INTEGRAL users,
 
-ISDC, University of Geneva, and APC Paris have developed the Multi-Messenger Online Data Analysis (MMODA) to obtain 
+ISDC, University of Geneva, EPFL(?), and APC Paris have developed the Multi-Messenger Online Data Analysis (MMODA) to obtain 
 high-level science products from several instruments.
 
 [First point of release Notes here]
