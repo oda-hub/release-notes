@@ -32,7 +32,7 @@ New parameters
 
     The user can specify the number of science windows to be analyzed within a given time interval
     the use can specify to access private data (upon granting of privileges)
-    OSA11.2-beta is available for use by restricted user group (this contains the new IBIS/ISGRI energy calibration and spectral response)
+    OSA11.2-beta is available for use by restricted user group (this contains the new IBIS/ISGRI energy calibration and spectral response for the full mission)
 
 User experience
 
@@ -50,8 +50,11 @@ Computation in University of Geneva Back-end facility
 Known limitations
 
     In normal use, no more than 50 new requests per hour can be submitted. Note that this will yieild 100 emails. We consider that this is rarely needed, but if necessary, we can provide enhanced access.
+    At the moment, OSA11 ISGRI analysis is limited to after revolution 1626. As soon as OSA 11.2-beta is sufficiently stable, it will be made available to everybody.
 
-We invite interested users to register to the web interface to fully exploit our new developments and to read our A&A paper for a more detailed description of the online data analysis for INTEGRAL instruments. https://www.aanda.org/articles/aa/abs/2021/07/aa37850-20/aa37850-20.html
+We invite interested users to *register to the web interface (sign up)* to fully exploit our new developments and to read our A&A paper for a more detailed description of the online data analysis for INTEGRAL instruments. https://www.aanda.org/articles/aa/abs/2021/07/aa37850-20/aa37850-20.html
+
+We can be contacted at the email contact@odahub.io 
 
 Best wishes from the MMODA team.
 
