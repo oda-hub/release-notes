@@ -1,6 +1,6 @@
 Dear INTEGRAL users,
 
-ISDC, University of Geneva, EPFL, and APC Paris have developed the Multi-Messenger Online Data Analysis (MMODA) to obtain high-level science products from several instruments.
+ISDC, University of Geneva, EPFL, and APC Paris have developed the Multi-Messenger Online Data Analysis (MMODA) to obtain high-level science products from the instruments:
 
     INTEGRAL
         IBIS/ISGRI
@@ -17,28 +17,28 @@ or using a convenient python API, see tutorials at
 
 https://oda-api.readthedocs.io/en/latest/
 
-These are the main characteristics of this release
+These are the main characteristics of this release as compared to the previous ODA availability.
 
 User accounts
 
-    The user of ODA should login to use the service efficiently so that
+    The user of ODA should login to use the service efficiently so that :
         They will receive an email upon both job submission and completion
         Upon login, the limit of INTEGRAL science windows is 500 instead of 50 for the anonymous user
-        Specific users can access private data upon usage agreement
-        Access to HPC resources can be granted abd the limit of 500 science windows raised upon special agreement
+        Specific users can access private data and S/W pre-releases upon usage agreement
+        Access to HPC resources can be granted and the limit of 500 science windows raised upon special agreement
         As before, all submitted requests are eventually satisfied, even if they experience issue. In addition, registered users will receive a dedicated follow-up, explaining reasons of failures or suggestions to optimize a difficult request.
 
 New parameters
 
     The user can specify the number of science windows to be analyzed within a given time interval
-    the use can specify to access private data (upon granting of privileges)
+    the user can specify to access private data (upon granting of privileges)
     OSA11.2-beta is available for use by restricted user group (this contains the new IBIS/ISGRI energy calibration and spectral response for the full mission)
 
 User experience
 
     A banner on the web interface reports news and current issues
     A user can received personalized feedback on their job
-    python API code has more logging and functionalities, like asynchronous requests
+    python API code has more logging and functionalities, like asynchronous requests (see the Asynchronous tutorial)
     Images are visualized with js9 (an extension of ds9)
     Help pages are updated and extended
 
@@ -58,4 +58,4 @@ We can be contacted at the email contact@odahub.io
 
 Best wishes from the MMODA team.
 
-Volodymyr Savchenko, Gabriele Barni, Mohamed Tahr Meharga, Carlo Ferrigno, Andrii Neronov, Denys Savchenko (with the previous contribution by Andrea Tramacere)
+Volodymyr Savchenko, Gabriele Barni, Mohamed Tahr Meharga, Carlo Ferrigno, Andrii Neronov, Denys Savchenko (and with contribution by Andrea Tramacere)
