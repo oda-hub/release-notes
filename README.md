@@ -1,46 +1,21 @@
-# release-notes-21.10.000
+# Release notes 21.10.0002
 
-As of now, we may use CalVer
+`21.10.0002` is a patch release. For details on the current feature relese please release notes of [21.10.0000](https://github.com/oda-hub/release-notes/tree/deff2eaf328978e66d9a8494050ca8bf983aa102).
 
-## Serving data from these instruments
-
-* INTEGRAL
-	* IBIS/ISGRI
-	* JEM-X
-	* SPI-ACS
-* Antares
-* Polar
-
-## User accounts
-
-* The user of ODA should login to use the service efficiently so that
-	* They will receive an email upon both job submission and completion
-	* Upon login, the limit of INTEGRAL science windows is 500 instead of 50 for the anonymous user
-	* Specific users can access private data upon usage agreement
-	* Access to HPC resources can be granted abd the limit of 500 science windows raised upon special agreement
-	* As before, all submitted requests are eventually satisfied, even if they experience issue. In addition, registeed users will receive a dedicated follow-up, explaining reasons of failures or suggestions to optimize a difficult request. 
- 
-## New parameters
-
-* The user can specify the number of science windows to be analyzed within a given time interval
-* the use can specify to access private data (upon granting of priviledges)
-* OSA11.2-beta is available for use by restricted user group (this contains the new IBIS/ISGRI energy calibration and spectral response)
+We fixed several bugs and improved user experience, as described below.
 
 ## User experience
 
-* A banner on the web interface reports news and current issues
-* A user can received personalized feedback on their job
-* python API code has more logging and functionalities, like asynchronous requests
-* Images are visualized with js9 (an extension of ds9)
-* Help pages are updated and extended
-
-
-## Computation in University of Geneva Back-end facility
-
-* a new Kubenetees cluster makes requests faster
-* a powerful HPC cluster is available upon agreement for very large jobs
+* Somewhat more detailed message in case of issues with the request
+* Fixed bug preventing access to ISGRI light curve with OSA11.2-beta
+* Frontend form can now accept up to 500 ScW. It means that request URLs for requests this size will also work
+* When API code in the email can not be embedded in the email, it will be attached (before, it was ommited)
+* Improved performance in high load, with multiple simultanous users
+* Fixed bug preventing correct generation of request URL when user catalog was provided as a fits file
+* Improved performance of the name resolved
 
 ## Known limitations
 
-* In normal use, no more than 50 new requests per hour can be submitted. Note that this will yeild 100 emails. We consider that this is rarely needed, but if necessary, we can provide enhanced access.
+Please consult https://github.com/oda-hub/known-issues for the list of known issues.
 
+You may be intersted to inspect [full list of closed issues](https://github.com/issues?q=org%3Aoda-hub+milestone%3Av21.10.0002) for this release.
