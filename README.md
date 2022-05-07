@@ -1,12 +1,13 @@
-# Release notes 21.10.0003
+Send to ANTARES and GWSC collaborations
 
-`21.10.0003` is a patch release. For details on the current feature relese please see release notes of [21.10.0000](https://github.com/oda-hub/release-notes/tree/21.10.0000).
+----
 
-We fixed several bugs and improved user experience, as described below.
-Some of the changes simplify process of running large requests (over 20k ScW). 
-Note that for now, requests of this size can be only submitted upon special agreement.
+# Release notes 22.05.0000
+
+`22.05.0000` is a minor release. 
 
 ## User experience improvements
+
 
 * Some improvements in error reporting in frontend an API.
 * More clear note in the email about expiration time of the URL in the cases when these URLs are temporary.
