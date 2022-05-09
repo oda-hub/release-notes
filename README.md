@@ -1,4 +1,4 @@
-Send to ANTARES and GWSC collaborations
+Send to ANTARES, GWSC, INTEGRAL collaborations and all users
 
 ----
 
