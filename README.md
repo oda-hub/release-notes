@@ -1,4 +1,4 @@
-Send to ANTARES, GWOSC, SDSC/LegacySurvery (if possible) INTEGRAL collaborations and all users
+Send to SDSC, ANTARES, GWOSC, SDSS/LegacySurvery (if possible) INTEGRAL collaborations and all users
 
 ----
 
