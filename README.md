@@ -2,7 +2,7 @@ Send to SDSC, ANTARES, GWOSC, SDSS/LegacySurvery (if possible) INTEGRAL collabor
 
 ----
 
-# Release notes 22.05.0000
+# Release notes 22.07.0000
 
 `22.07.0000` is a major release, adding several new instruments, integration with Renku, and improving user experience.
 
