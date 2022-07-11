@@ -4,18 +4,19 @@ Send to SDSC, ANTARES, GWOSC, SDSS/LegacySurvery (if possible) INTEGRAL collabor
 
 # Release notes 22.05.0000
 
-`22.05.0000` is a minor release. 
+`22.07.0000` is a major release, adding several new instruments, integration with Renku, and improving user experience.
 
 ## User experience improvements
 
+* Added [Gravitatitional Wave analysis](https://www.astro.unige.ch/mmoda/help/mmoda/gravitational-wave-analysis)
+* Added [DESI LegacySurvey analysis](https://www.astro.unige.ch/mmoda/help/mmoda/legacy-survey)
+* Added possibility to open a new [RenkuLab](https://renkulab.io/) session
 
-* Some improvements in error reporting in frontend an API.
-* More clear note in the email about expiration time of the URL in the cases when these URLs are temporary.
-* When the URLs provided in job email and in the frontend are persistent they are more consistent: parameters in the URL are converted to default formats before being inserted to the URL (e.g. time will be always represented as ISOT).
+* Some improvements in error reporting in frontend an API
 * Some stability improvements
 
 ## Known limitations
 
 Please consult https://github.com/oda-hub/known-issues for the list of known issues.
 
-You may be intersted to inspect [full list of closed issues](https://github.com/issues?q=org%3Aoda-hub+milestone%3Av21.10.0003) for this release.
+You may be intersted to inspect [full list of closed issues](https://github.com/issues?q=org%3Aoda-hub+milestone%3Av22.07.0000) for this release.
