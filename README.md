@@ -40,13 +40,15 @@ MMODA is developed joinly by UNIGE Department of Astronomy, EPFL LASTRO Laborato
 
 ## Changes in MMODA 22.07.0000
 
-`22.07.0000` is a major release, adding several new instruments, integration with Renku, and improving user experience.
+`22.07.0000` is a major release, adding several new major features, and improving user experience.
 
-## User experience improvements
+## New instruments and integration
 
 * Added [Gravitatitional Wave analysis](https://www.astro.unige.ch/mmoda/help/mmoda/gravitational-wave-analysis)
 * Added [DESI LegacySurvey analysis](https://www.astro.unige.ch/mmoda/help/mmoda/legacy-survey)
 * Added possibility to open a new [RenkuLab](https://renkulab.io/) session
+
+## User experience improvements
 
 * Some improvements in error reporting in frontend and API
 * Some stability improvements
