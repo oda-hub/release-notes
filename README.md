@@ -7,8 +7,8 @@ Send to SDSC, ANTARES, GWOSC, SDSS/LegacySurvery (if possible) INTEGRAL collabor
 
 ## What is MMODA
 
-The Multi-Messenger Online analysis is an **open-source platform** to derive **high-level scientific products for several instruments**. 
-The underlying services run complex pipelines in a computer cluster based at the University of Geneva and the [web-based interface](http://astro.unige.ch/mmoda/) makes them available in a straightforward way. Pipelines have been developed by experts in the data analysis and exploit proximity to the data, state-of-the-art calibration and software. In these help pages, the user will find instructions to exploit the platform from the [web interface](http://astro.unige.ch/mmoda/), but services can also be accessed through a [python API](https://oda-api.readthedocs.io/en/latest/user_guide/tutorial_main.html).
+The Multi-Messenger Online analysis is an [open-source](https://github.com/oda-hub) **cloud-native platform** to derive **high-level scientific products for several astrophysical instruments**. 
+The underlying services run complex pipelines in a computer cluster based at the University of Geneva and the [web-based interface](http://astro.unige.ch/mmoda/) and a [python API](https://oda-api.readthedocs.io/en/latest/user_guide/tutorial_main.html) make them available in a straightforward way. Pipelines have been developed by experts in the data analysis and exploit proximity to the data combined with state-of-the-art calibration and software.
 
 MMODA is developed joinly by [UNIGE Department of Astronomy](https://www.unige.ch/sciences/astro/en/), [EPFL LASTRO Laboratory](https://www.epfl.ch/labs/lastro), [UniParis APC](https://apc.u-paris.fr/APC_CS/en), [Kyiv Academic University](https://kau.org.ua/en), with some support of [SDSC EPFL](https://www.epfl.ch/research/domains/sdsc/).
 
