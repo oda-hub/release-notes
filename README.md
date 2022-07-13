@@ -57,7 +57,7 @@ MMODA is developed joinly by [UNIGE Department of Astronomy](https://www.unige.c
 
 Please consult https://github.com/oda-hub/known-issues for the list of known issues.
 
-You may be intersted to inspect [full list of closed issues](https://github.com/issues?q=org%3Aoda-hub+milestone%3Av22.07.0000) for this release.
+You may be interested to inspect [full list of closed issues](https://github.com/issues?q=org%3Aoda-hub+milestone%3Av22.07.0000) for this release.
 
 
 
