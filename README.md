@@ -12,7 +12,7 @@ Send to SDSC, ANTARES, GWOSC, SDSS/LegacySurvery (if possible) INTEGRAL collabor
 * Added [DESI LegacySurvey analysis](https://www.astro.unige.ch/mmoda/help/mmoda/legacy-survey)
 * Added possibility to open a new [RenkuLab](https://renkulab.io/) session
 
-* Some improvements in error reporting in frontend an API
+* Some improvements in error reporting in frontend and API
 * Some stability improvements
 
 ## Known limitations
