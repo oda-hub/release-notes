@@ -44,9 +44,9 @@ MMODA is developed joinly by [UNIGE Department of Astronomy](https://www.unige.c
 
 ## New instruments and integration
 
-* Added [Gravitatitional Wave analysis](https://www.astro.unige.ch/mmoda/help/mmoda/gravitational-wave-analysis)
-* Added [DESI LegacySurvey analysis](https://www.astro.unige.ch/mmoda/help/mmoda/legacy-survey)
-* Added possibility to open an interactive JupyterLab analysis environment at [RenkuLab](https://renkulab.io/)
+* Added [Gravitatitional Wave analysis](https://www.astro.unige.ch/mmoda/help/mmoda/gravitational-wave-analysis) based on [GWOSC](https://www.gw-openscience.org/) analysis threads.
+* Added visible and infrared photometry from [DESI LegacySurvey](https://www.astro.unige.ch/mmoda/help/mmoda/legacy-survey) based on [NOIRLab](https://datalab.noirlab.edu/ls/dataAccess.php) TAP service.
+* Added possibility to open the MMODA results in a JupyterLab analysis environment at [RenkuLab](https://renkulab.io/).
 
 ## User experience improvements
 
