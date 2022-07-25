@@ -7,8 +7,15 @@ Send to SDSC, ANTARES, GWOSC, SDSS/LegacySurvery (if possible) INTEGRAL collabor
 
 ## What is MMODA
 
-The Multi-Messenger Online analysis is an [open-source](https://github.com/oda-hub) **cloud-native platform** to derive **high-level scientific products for several astrophysical instruments**. 
-The underlying services run complex pipelines in a computer cluster based at the University of Geneva and the [web-based interface](http://astro.unige.ch/mmoda/) and a [python API](https://oda-api.readthedocs.io/en/latest/user_guide/tutorial_main.html) make them available in a straightforward way. Pipelines have been developed by experts in the data analysis and exploit proximity to the data combined with state-of-the-art calibration and software.
+The Multi-Messenger Online analysis is an [open-source](https://github.com/oda-hub) **cloud-native platform** to derive **high-level scientific products for several astrophysical instruments**.
+A [web-based interface](http://astro.unige.ch/mmoda/) and a [python API](https://oda-api.readthedocs.io/en/latest/user_guide/tutorial_main.html) allow the users to run easily the underlying services, which run complex pipelines in a computer cluster based at the University of Geneva. These pipelines have been developed by experts in the data analysis and exploit proximity to the data combined with state-of-the-art calibration and software.
+
+Currently, MMODA provides data from:
+* the [INTEGRAL](https://www.isdc.unige.ch/integral/) X- and gamma-ray observatory (for the instruments IBIS/ISGRI, JEM-X, and SPI-ACS),
+* the gamma-ray mission [POLAR](https://www.astro.unige.ch/polar/), 
+* the neutrino experiment [ANTARES](https://antares.in2p3.fr/),
+* the gravitational wave experiments [LIGO and Virgo](https://www.gw-openscience.org/),
+* the optical/IR [DESI LegacySurvey](https://www.astro.unige.ch/mmoda/help/mmoda/legacy-survey).
 
 MMODA is developed joinly by [UNIGE Department of Astronomy](https://www.unige.ch/sciences/astro/en/), [EPFL LASTRO Laboratory](https://www.epfl.ch/labs/lastro), [UniParis APC](https://apc.u-paris.fr/APC_CS/en), [Kyiv Academic University](https://kau.org.ua/en), with some support of [SDSC EPFL](https://www.epfl.ch/research/domains/sdsc/).
 
@@ -46,7 +53,7 @@ MMODA is developed joinly by [UNIGE Department of Astronomy](https://www.unige.c
 
 * Added [Gravitatitional Wave analysis](https://www.astro.unige.ch/mmoda/help/mmoda/gravitational-wave-analysis) based on [GWOSC](https://www.gw-openscience.org/) analysis threads.
 * Added visible and infrared photometry from [DESI LegacySurvey](https://www.astro.unige.ch/mmoda/help/mmoda/legacy-survey) based on [NOIRLab](https://datalab.noirlab.edu/ls/dataAccess.php) TAP service.
-* Added possibility to open the MMODA results in a JupyterLab analysis environment at [RenkuLab](https://renkulab.io/).
+* Added possibility to open the MMODA results in a JupyterLab analysis environment at [RenkuLab](https://renkulab.io/). This allows the user to experience the potential of using a Jupyter notebook in a pre-built environment.
 
 ## User experience improvements
 
@@ -59,6 +66,6 @@ Please consult https://github.com/oda-hub/known-issues for the list of known iss
 
 You may be interested to inspect [full list of closed issues](https://github.com/issues?q=org%3Aoda-hub+milestone%3Av22.07.0000) for this release.
 
-
+## MMODA on the public marketplace
 
 Discover [MMODA at EOSC marketplace](https://marketplace.eosc-portal.eu/services/astronomical-online-data-analysis-astrooda)
