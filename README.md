@@ -45,9 +45,9 @@ MMODA is developed joinly by [UNIGE Department of Astronomy](https://www.unige.c
    width="50px"/></a>
       
 
-## Changes in MMODA 22.07.0000
+## Changes in MMODA 22.09.0000
 
-`22.07.0000` is a major release, adding several new major features, and improving user experience.
+`22.09.0000` is a major release, adding several new major features, and improving user experience.
 
 ## New instruments and integration
 
