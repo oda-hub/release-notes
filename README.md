@@ -3,7 +3,7 @@ Send to SDSC, ANTARES, GWOSC, SDSS/LegacySurvery (if possible) INTEGRAL collabor
 ----
 
 
-# Release notes MMODA 22.07.0000
+# Release notes MMODA 22.09.0000
 
 ## What is MMODA
 
